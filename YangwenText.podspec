@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "YangwenText"
   s.version      = "0.0.1"
-  s.summary      = "A short description of YangwenText."
+  s.summary      = "The package of useful tools, include categories and classes"
   s.homepage     = "https://github.com/mokSam"
   s.license      = "MIT"
   s.authors      = { 'mokSam' => 'lzs_yw@163.com'}
